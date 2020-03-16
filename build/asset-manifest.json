@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/simple-react-js-weather-app/static/js/main.f660448d.chunk.js",
+    "main.js.map": "/simple-react-js-weather-app/static/js/main.f660448d.chunk.js.map",
+    "runtime~main.js": "/simple-react-js-weather-app/static/js/runtime~main.bf3a8b8b.js",
+    "runtime~main.js.map": "/simple-react-js-weather-app/static/js/runtime~main.bf3a8b8b.js.map",
+    "index.html": "/simple-react-js-weather-app/index.html",
+    "precache-manifest.981021c80f98c234c5fbd28cc446d9dd.js": "/simple-react-js-weather-app/precache-manifest.981021c80f98c234c5fbd28cc446d9dd.js",
+    "service-worker.js": "/simple-react-js-weather-app/service-worker.js"
+  }
+}
